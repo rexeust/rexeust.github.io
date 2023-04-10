@@ -1,7 +1,6 @@
 # this is mywebsite
 <html>
  <head>
-  <title>for my best fred!!!</title>
   <link rel="stylesheet" type="text/css" href="stylish.css">
  </head>
 
@@ -19,7 +18,7 @@
     <p>ofcors if u r busy 2nite i understand!<3</p>
     <p>so yah!!!!!!!!!!!!!</p>
     <p>(idk how 2 put emojis in here or else there would be like...</p>
-    <p>a lotta emojis in here</p>
+    <p>a lotta emojis in here)</p>
    </div>
   </div>
  </body>
