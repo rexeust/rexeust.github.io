@@ -1,0 +1,30 @@
+/* Set default font styles */
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1;
+  color: #9400d3; /* using hex code for purple */
+}
+
+/* Style headings */
+h1 {
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 36px;
+  color: #800080; /* using hex code for dark purple */
+}
+
+/* Text Align */
+body {
+  text-align: center;
+}
+
+/* Background */
+body {
+  background-color: #FFA07A;
+}
+
+/* Padding */
+.orange-background {
+  background-color: #FFA07A;
+}
